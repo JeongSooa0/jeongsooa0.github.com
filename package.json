@@ -1,0 +1,23 @@
+{
+  "name": "jeongsooa0.github.com",
+  "version": "1.0.0",
+  "description": "https://travis-ci.org/JeongSooa0/jeongsooa0.github.com.svg?branch=master",
+  "main": "123.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JeongSooa0/jeongsooa0.github.com.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JeongSooa0/jeongsooa0.github.com/issues"
+  },
+  "homepage": "https://github.com/JeongSooa0/jeongsooa0.github.com#readme",
+  "devDependencies": {
+    "jest": "^22.0.4"
+  }
+}

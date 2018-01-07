@@ -52,10 +52,12 @@ git - > setting -> Integrations & services   add service  travice ci
 
 build history
 
-travice.yaml 파일 생성
+travice.yml 파일 생성
 	language : node_js
 	node_js : "8"
 
   - > push
 
 jenkins 
+
+npm install
