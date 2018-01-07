@@ -1,3 +1,4 @@
+https://travis-ci.org/JeongSooa0/jeongsooa0.github.com.svg?branch=master
 
 <h1>01/07</h1>
 오른쪽 하단 git branch master -> git develop
@@ -24,24 +25,21 @@ git 설치: https://git-scm.com/
 5. 아무파일에서 오른쪽마우스 git 레파짓토리 - pull  : 업데이트
 
 
-
-https://github.com/wow9144/study-fd3-git
-
-
-
-jsa85love.github.com 레파짓토리 생성 후 아래 주소에서 확인가능
-http://jsa85love.github.io/
+기타 : 
+   선생님 주소 : https://github.com/wow9144/study-fd3-git
 
 
 
 
-패키지.json 설치   :  npm init -y 
-제스트 설치 :       npm install --save-dev jest 
+    패키지.json 설치   :  npm init -y 
+    제스트 설치 :       npm install --save-dev jest 
 
 npm test : "jest" 셋팅
 
 
-
+  jsa85love.github.com 레파짓토리 생성 후 아래 주소에서 확인가능
+  http://jsa85love.github.io/
+  
 master branch
 check in
 gitlab
