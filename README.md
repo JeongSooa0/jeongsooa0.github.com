@@ -1,5 +1,4 @@
-https://travis-ci.org/JeongSooa0/jeongsooa0.github.com.svg?branch=master
-
+[![Build Status](https://travis-ci.org/JeongSooa0/jeongsooa0.github.com.svg?branch=master)](https://travis-ci.org/JeongSooa0/jeongsooa0.github.com)
 <h1>01/07</h1>
 오른쪽 하단 git branch master -> git develop
 
