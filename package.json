@@ -19,5 +19,8 @@
   "homepage": "https://github.com/JeongSooa0/jeongsooa0.github.com#readme",
   "devDependencies": {
     "jest": "^22.0.4"
+  },
+  "dependencies": {
+    "jquery": "^1.11.1"
   }
 }
